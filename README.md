@@ -42,7 +42,7 @@ npx tailwindcss init -p
 ```
 <a>la estructura de nuestro proyecto quedaria de la siguiente manera:</a>
 
-![image](https://github.com/BrandonGS22b/Front/blob/main/reacttutorial/estructura.png)
+![image](https://github.com/BrandonGS22b/Front/blob/main/reacttutorial/estructura1.png)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><!-- se agrega estilo css line en rgb-->
