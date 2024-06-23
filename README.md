@@ -48,14 +48,42 @@ npx tailwindcss init -p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><!-- se agrega estilo css line en rgb-->
 
 
+<a>En el siguiente archivo vamos a escribir:</a>
+<a>App.jsx</a>
 
+```bash
+export default function app(){
+  return(
+    <h1 className=" text-3x1 font blond underline ">
+      Hello world!
+    </h1>
+  )
+}
 
+```
+<a>Index.css</a>
 
+```bash
+@tailwind base;
+@tailwind conponents;
+@tailwind utilities;
 
+```
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><!-- se agrega estilo css line en rgb-->
+<h3>Ejecutamos el proyecto o compilamos</h3>
+<a>en la terminar o shell ponemos el siguiente comando</a>
 
+```bash
+npm run dev
 
+```
+<a>en la consola nos saldra lo siguiente</a>
 
+![image](https://github.com/BrandonGS22b/Front/blob/main/reacttutorial/consola.png)
 
+<a>Abrimos el link y para abrir la pagina del servicio</a>
+
+![image](https://github.com/BrandonGS22b/Front/blob/main/reacttutorial/resutado.png)
 
 
 
